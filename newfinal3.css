@@ -1318,3 +1318,84 @@ body {
         size: auto;
     }
 }
+
+‎.developer-section {
+‎  padding: 60px 20px;
+‎  background: #f5f7fb;
+‎  text-align: center;
+‎}
+‎
+‎.developer-card {
+‎  max-width: 600px;
+‎  margin: auto;
+‎  padding: 35px 25px;
+‎  background: white;
+‎  border-radius: 25px;
+‎  box-shadow: 0 10px 30px rgba(0,0,0,0.10);
+‎}
+‎
+‎.developer-photo {
+‎  width: 130px;
+‎  height: 130px;
+‎  object-fit: cover;
+‎  border-radius: 50%;
+‎  border: 5px solid #3b82f6;
+‎  margin-bottom: 15px;
+‎}
+‎
+‎.developer-card h2 {
+‎  margin: 5px 0 10px;
+‎  font-size: 28px;
+‎  color: #111827;
+‎}
+‎
+‎.developer-card h3 {
+‎  margin: 5px 0;
+‎  font-size: 22px;
+‎  color: #2563eb;
+‎}
+‎
+‎.developer-name {
+‎  margin-top: 5px;
+‎  color: #6b7280;
+‎  font-size: 15px;
+‎}
+‎
+‎.developer-bio {
+‎  max-width: 500px;
+‎  margin: 18px auto 25px;
+‎  line-height: 1.7;
+‎  color: #4b5563;
+‎  font-size: 15px;
+‎}
+‎
+‎.developer-contact {
+‎  display: flex;
+‎  justify-content: center;
+‎  gap: 12px;
+‎  flex-wrap: wrap;
+‎}
+‎
+‎.contact-btn {
+‎  display: inline-block;
+‎  padding: 12px 22px;
+‎  border-radius: 30px;
+‎  text-decoration: none;
+‎  color: white;
+‎  font-weight: 600;
+‎  transition: 0.3s;
+‎}
+‎
+‎.whatsapp {
+‎  background: #25D366;
+‎}
+‎
+‎.email {
+‎  background: #2563eb;
+‎}
+‎
+‎.contact-btn:hover {
+‎  transform: translateY(-3px);
+‎  opacity: 0.9;
+‎}
+   
