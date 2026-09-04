@@ -567,12 +567,12 @@ body {
     gap: 0.25rem;
 }
 
-.error-msg::before {
+/*.error-msg::before {
     content: '\f06a';
     font-family: 'Font Awesome 6 Free';
     font-weight: 900;
     font-size: 0.75rem;
-}
+}*/
 
 .search-btn {
     display: inline-flex;
