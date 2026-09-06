@@ -65,12 +65,12 @@ document.addEventListener('DOMContentLoaded', function() {
         let isValid = true;
 
         if (!roll) {
-            showError(rollError, 'Please select your roll number.');
+            showError(rollError, 'Please enter your roll number.');
             isValid = false;
         }
 
         if (!reg) {
-            showError(regError, 'Please select your registration number.');
+            showError(regError, 'Please enter your registration number.');
             isValid = false;
         }
 
