@@ -23,7 +23,7 @@ const students = [
         registration: "100",
         grade: "Grade-12",
         academicYear: "2025-2026",
-        photo: "Images/file_00000000092481fd85a275cfd50909af.png",
+        photo: "Images/Abdullah.jpg",
         marks: {
             Burmese: 55,
             English: 62,
@@ -39,7 +39,7 @@ const students = [
         registration: "101",
         grade: "Grade-12",
         academicYear: "2025-2026",
-        photo: "rjrafique.jpg",
+        photo: "Images/Ayaz.jpg",
         marks: {
             Burmese: 60,
             English: 95,
@@ -55,7 +55,7 @@ const students = [
         registration: "174",
         grade: "Grade-12",
         academicYear: "2025-2026",
-        photo: "rjrafique.jpg",
+        photo: "Images/rjrafique.jpg",
         marks: {
             Burmese: 63,
             English: 73,
@@ -71,7 +71,7 @@ const students = [
         registration: "102",
         grade: "Grade-12",
         academicYear: "2025-2026",
-        photo: "",
+        photo: "Images/Yaserarfat.jpg",
         marks: {
             Burmese: 61,
             English: 78,
@@ -87,7 +87,7 @@ const students = [
         registration: "103",
         grade: "Grade-12",
         academicYear: "2025-2026",
-        photo: " ",
+        photo: "Images/Sabak.jpg",
         marks: {
             Burmese: 61,
             English: 79,
@@ -103,7 +103,7 @@ const students = [
         registration: "104",
         grade: "Grade-12",
         academicYear: "2025-2026",
-        photo: " ",
+        photo: "Images/Sadek.jpg",
         marks: {
             Burmese: 58,
             English: 78,
@@ -119,7 +119,7 @@ const students = [
         registration: "105",
         grade: "Grade-12",
         academicYear: "2025-2026",
-        photo: " ",
+        photo: "Images/Itiss.jpg",
         marks: {
             Burmese: 77,
             English: 83,
