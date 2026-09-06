@@ -55,7 +55,7 @@ const students = [
         registration: "174",
         grade: "Grade-12",
         academicYear: "2025-2026",
-        photo: "Images/rjrafique.jpg",
+        photo: "Images/rjrafique.png",
         marks: {
             Burmese: 63,
             English: 73,
